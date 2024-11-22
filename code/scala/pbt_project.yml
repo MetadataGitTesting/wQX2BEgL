@@ -1,0 +1,49 @@
+name: kareem.hamill
+description: challenge
+version: 0.0.1
+author: 0yutaks7.tj6lg0nq@kjhoc1fd.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kareemhamill
+  parentArtefactID: team1732306566690
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:16:37'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:16:38'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:16:38.938802Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1518443690'
+  createdAt: '2024-11-22T20:16:38.938802Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
